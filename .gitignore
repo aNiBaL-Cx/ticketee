@@ -1,0 +1,16 @@
+.DS_Store
+log/*.log
+db/*.sqlite3
+tmp/restart.txt
+tmp/**/*
+mkmf.log
+public/uploads/**/*
+public/system/**/*
+public/assets/pictures/**/*
+nbproject/*
+tags
+grep
+vim*
+.idea*
+.project*
+
